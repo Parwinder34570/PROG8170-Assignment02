@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment02
 {
+    //Rectangle Class
     public class Rectangle
     {
 
